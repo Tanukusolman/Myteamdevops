@@ -3,7 +3,7 @@ node{
     echo "Team Names"
     //git crdentials: 'Tanukusolman', url: 'https://github.com/Tanukusolman/Myteamdevops.git'
   }
-  Stage('Buildproject'){
+  stage('Buildproject'){
     echo "solman"
     echo "akhil"
     echo "manoj"
