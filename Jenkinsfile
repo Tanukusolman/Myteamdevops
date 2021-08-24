@@ -8,6 +8,7 @@ node{
     echo "akhil"
     echo "manoj"
     echo "pravalilka"
+    echo "ganesh"
   }
   stage('Finalexecution'){
     echo "successfullydone"
