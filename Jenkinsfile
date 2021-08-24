@@ -9,6 +9,8 @@ node{
     echo "manoj"
     echo "pravalilka"
     echo "ganesh"
+    
+    echo "the above are my team"
   }
   stage('Finalexecution'){
     echo "successfullydone"
